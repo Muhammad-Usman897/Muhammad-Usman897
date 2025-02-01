@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-usman897&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-usman897" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammadusman-mu](www.linkedin.com/in/muhammadusman-mu)
