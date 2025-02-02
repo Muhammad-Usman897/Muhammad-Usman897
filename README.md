@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-usman897&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-usman897" /> </p>
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammadusman-mu](www.linkedin.com/in/muhammadusman-mu)
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https:/muhammadusman-mu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadusman-mu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadusman-mu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadusman-mu" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadusman_mu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadusman_mu" height="30" width="40" /></a>
 </p>
 
