@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammadusman-mu](www.linkedin.com/in/muhammadusman-mu)
 
-- 📫 How to reach me **muh.musman897@gmail.com**
+- 📫 How to reach me **itxusman568@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
