@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">MERN Stack Developer | Final Year CS Student @ UET</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithmd**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammadusman-mu](www.linkedin.com/in/muhammadusman-mu)
 
