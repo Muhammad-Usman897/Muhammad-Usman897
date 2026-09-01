@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **itxusman568@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammadusman-mu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadusman-mu" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadusman_mu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadusman_mu" height="30" width="40" /></a>
